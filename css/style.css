@@ -1,0 +1,33 @@
+.customhr {
+    height: 4px;
+    background-color: #7d97ad;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 3.5em;
+}
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+.featuredwork {
+    font-size: 2em;
+    color: #7d97ad;
+    font-family: 'Open Sans', sans-serif;
+    margin: 18px 0px;
+}
+h4 {
+    text-transform: uppercase;
+}
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
