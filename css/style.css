@@ -1,3 +1,4 @@
+/* My own custom horizontal rule. */
 .customhr {
     height: 4px;
     background-color: #7d97ad;
@@ -5,28 +6,36 @@
     margin-bottom: 20px;
     width: 100%;
 }
+
+/* Converting title and subtitle texts to uppercase; customizing fonts. */
 h1 {
     font-family: 'Work Sans', sans-serif;
     text-transform: uppercase;
     font-size: 3.5em;
 }
+
 h2 {
     font-family: 'Work Sans', sans-serif;
     font-size: 2em;
     text-transform: uppercase;
 }
+
+h4 {
+    text-transform: uppercase;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+
 .featuredwork {
     font-size: 2em;
     color: #7d97ad;
     font-family: 'Open Sans', sans-serif;
     margin: 18px 0px;
 }
-h4 {
-    text-transform: uppercase;
-}
-p {
-    font-family: 'Work Sans', sans-serif;
-}
+
+/* This class was added to keep the ChemistNate Logo vertically aligned as viewport size changes */
 .vertical-align {
     display: flex;
     align-items: center;
