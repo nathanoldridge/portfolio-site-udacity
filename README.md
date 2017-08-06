@@ -6,13 +6,7 @@ HTML Project for Udacity Full Stack Nanodegree; A responsive portfolio website w
 
 First, fork this repository, or Download it as a .zip from Github.
 
-In your Terminal, navigate to the directory where the files were downloaded, and execute  `movieObject.py` with your python interpreter.
-
-On a Mac, this means
-
-```sh
-$ python movieObject.py
-```
+Then, navigate to the directory where the files were downloaded, and open  `index.html`.  It should open in your default browser.
 
 You will have to change the links and HTML file if you want to use the website as your own portfolio - currently it has my name all through it.
 
@@ -25,8 +19,8 @@ First, fork this repository.
 Next, clone this repository to your desktop to make changes.
 
 ```sh
-$ git clone {git@github.com:nathanoldridge/fresh_tomatoes_udacity.git}
-$ cd fresh_tomatoes_udacity
+$ git clone {git@github.com:nathanoldridge/portfolio-site-udacity.git}
+$ cd portfolio-site-udacity
 ```
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
